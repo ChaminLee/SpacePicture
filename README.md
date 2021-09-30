@@ -1,6 +1,6 @@
 # SpacePicture
 
-설명 : [[iOS] URLSession를 활용한 비동기 프로그래밍 (with. NASA API)](https://leechamin.tistory.com/540)
+Description : [[iOS] URLSession를 활용한 비동기 프로그래밍 (with. NASA API)](https://leechamin.tistory.com/540)
 
 ### NASA Open API를 활용한 1일 1우주 사진
 
