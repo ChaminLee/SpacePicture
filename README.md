@@ -24,3 +24,8 @@ Description : [[iOS] URLSession를 활용한 비동기 프로그래밍 (with. NA
 |<img src="https://github.com/ChaminLee/SpacePicture/blob/master/SpacePicture/images/noCache.gif" width="250">|<img src="https://github.com/ChaminLee/SpacePicture/blob/master/SpacePicture/images/cache.gif" width="250">|
 
 
+## 개선해볼 수 있는 점
+
+- 싱글톤 적용
+- MVVM 적용
+- async / await 적용
